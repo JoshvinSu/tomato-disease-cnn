@@ -1,0 +1,47 @@
+{
+  "ood_plantvillage_model": {
+    "model": "pv_ce",
+    "keep_in_domain_val": 0.95,
+    "n_in_domain_test": 2179,
+    "n_out_of_domain_test": 127,
+    "msp": {
+      "threshold": 0.9972671270370483,
+      "auroc": 0.8935887660669309,
+      "in_domain_test_accepted": 0.9444699403396053,
+      "in_domain_test_acc_all": 0.9967875172097292,
+      "in_domain_test_acc_accepted": 0.999514091350826,
+      "out_of_domain_rejected": 0.6535433070866141,
+      "taiwan_known_class_wrong_rejected": 0.7111111111111111,
+      "taiwan_known_class_wrong_n": 45
+    },
+    "energy": {
+      "threshold": 9.721731185913086,
+      "auroc": 0.8565097042998124,
+      "in_domain_test_accepted": 0.945387792565397,
+      "in_domain_test_acc_all": 0.9967875172097292,
+      "in_domain_test_acc_accepted": 0.9985436893203884,
+      "out_of_domain_rejected": 0.4881889763779528,
+      "taiwan_known_class_wrong_rejected": 0.6222222222222222,
+      "taiwan_known_class_wrong_n": 45
+    }
+  },
+  "selective_taiwan_model": {
+    "model": "tw_from_pv",
+    "n_test": 127,
+    "acc_all": 0.7795275590551181,
+    "msp": {
+      "threshold": 0.43913528323173523,
+      "coverage": 0.9291338582677166,
+      "acc_accepted": 0.8050847457627118,
+      "wrong_rejected": 0.17857142857142858,
+      "correct_rejected": 0.04040404040404041
+    },
+    "energy": {
+      "threshold": 2.1147947311401367,
+      "coverage": 0.889763779527559,
+      "acc_accepted": 0.8230088495575221,
+      "wrong_rejected": 0.2857142857142857,
+      "correct_rejected": 0.06060606060606061
+    }
+  }
+}

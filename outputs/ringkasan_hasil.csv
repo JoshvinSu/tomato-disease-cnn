@@ -1,0 +1,9 @@
+skenario,dataset,loss,class_weight,init,epoch,val_macro_f1,test_accuracy,test_macro_f1,waktu_menit
+pv_ce,plantvillage,ce,False,ImageNet,15,0.9973,0.9968,0.9963,24.3
+pv_focal,plantvillage,focal,True,ImageNet,15,0.9953,0.995,0.9955,22.3
+tw_from_pv,taiwan,focal,True,PlantVillage,21,0.8056,0.7795,0.7605,9.7
+tw_imagenet,taiwan,focal,True,ImageNet,25,0.8328,0.7402,0.7354,12.3
+pv_ce -> plantvillage (3 kelas),plantvillage,,,,,,0.997,0.997,
+pv_ce -> taiwan (3 kelas),taiwan,,,,,,0.3594,0.2457,
+pv_focal -> plantvillage (3 kelas),plantvillage,,,,,,0.9985,0.9984,
+pv_focal -> taiwan (3 kelas),taiwan,,,,,,0.375,0.2692,

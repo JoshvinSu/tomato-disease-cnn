@@ -1,0 +1,66 @@
+{
+  "checkpoint": "../outputs/runs/pv_ce/best.pt",
+  "classes": [
+    "bacterial_spot",
+    "healthy",
+    "late_blight"
+  ],
+  "plantvillage": {
+    "n": 675,
+    "open_accuracy": 0.9955555555555555,
+    "open_outside_shared": 0.0014814814814814814,
+    "shared": {
+      "accuracy": 0.997037037037037,
+      "macro_f1": 0.9970133484776391,
+      "per_class": {
+        "bacterial_spot": {
+          "precision": 0.9961089494163424,
+          "recall": 1.0,
+          "f1-score": 0.9980506822612085,
+          "support": 256.0
+        },
+        "healthy": {
+          "precision": 0.9947643979057592,
+          "recall": 1.0,
+          "f1-score": 0.9973753280839895,
+          "support": 190.0
+        },
+        "late_blight": {
+          "precision": 1.0,
+          "recall": 0.9912663755458515,
+          "f1-score": 0.9956140350877193,
+          "support": 229.0
+        }
+      }
+    }
+  },
+  "taiwan": {
+    "n": 64,
+    "open_accuracy": 0.296875,
+    "open_outside_shared": 0.390625,
+    "shared": {
+      "accuracy": 0.359375,
+      "macro_f1": 0.24569944823109383,
+      "per_class": {
+        "bacterial_spot": {
+          "precision": 0.75,
+          "recall": 0.13636363636363635,
+          "f1-score": 0.23076923076923078,
+          "support": 22.0
+        },
+        "healthy": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 22.0
+        },
+        "late_blight": {
+          "precision": 0.3389830508474576,
+          "recall": 1.0,
+          "f1-score": 0.5063291139240507,
+          "support": 20.0
+        }
+      }
+    }
+  }
+}

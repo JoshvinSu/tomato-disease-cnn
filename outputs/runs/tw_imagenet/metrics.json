@@ -1,0 +1,64 @@
+{
+  "accuracy": 0.7401574803149606,
+  "macro_f1": 0.7354037674317837,
+  "per_class": {
+    "bacterial_spot": {
+      "precision": 0.7894736842105263,
+      "recall": 0.6818181818181818,
+      "f1-score": 0.7317073170731707,
+      "support": 22.0
+    },
+    "black_mold": {
+      "precision": 0.7058823529411765,
+      "recall": 0.8571428571428571,
+      "f1-score": 0.7741935483870968,
+      "support": 14.0
+    },
+    "gray_spot": {
+      "precision": 0.5217391304347826,
+      "recall": 0.7058823529411765,
+      "f1-score": 0.6,
+      "support": 17.0
+    },
+    "healthy": {
+      "precision": 0.9166666666666666,
+      "recall": 1.0,
+      "f1-score": 0.9565217391304348,
+      "support": 22.0
+    },
+    "late_blight": {
+      "precision": 0.6,
+      "recall": 0.6,
+      "f1-score": 0.6,
+      "support": 20.0
+    },
+    "powdery_mildew": {
+      "precision": 0.875,
+      "recall": 0.65625,
+      "f1-score": 0.75,
+      "support": 32.0
+    }
+  },
+  "run": "tw_imagenet",
+  "args": {
+    "dataset": "taiwan",
+    "name": "tw_imagenet",
+    "model": "efficientnet_b0",
+    "epochs": 25,
+    "freeze_epochs": 2,
+    "batch_size": 32,
+    "lr": 0.0005,
+    "weight_decay": 0.0001,
+    "dropout": 0.3,
+    "loss": "focal",
+    "class_weight": true,
+    "patience": 6,
+    "init": null,
+    "max_batches": 0,
+    "workers": 4
+  },
+  "best_val_macro_f1": 0.8328144078144079,
+  "epochs_trained": 25,
+  "train_time_s": 736,
+  "n_params": 4015234
+}

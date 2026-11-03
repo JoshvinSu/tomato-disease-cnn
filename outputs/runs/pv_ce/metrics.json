@@ -1,0 +1,88 @@
+{
+  "accuracy": 0.9967875172097292,
+  "macro_f1": 0.9963125194223386,
+  "per_class": {
+    "bacterial_spot": {
+      "precision": 0.99609375,
+      "recall": 0.99609375,
+      "f1-score": 0.99609375,
+      "support": 256.0
+    },
+    "early_blight": {
+      "precision": 0.9917355371900827,
+      "recall": 1.0,
+      "f1-score": 0.995850622406639,
+      "support": 120.0
+    },
+    "healthy": {
+      "precision": 0.9947643979057592,
+      "recall": 1.0,
+      "f1-score": 0.9973753280839895,
+      "support": 190.0
+    },
+    "late_blight": {
+      "precision": 1.0,
+      "recall": 0.9912663755458515,
+      "f1-score": 0.9956140350877193,
+      "support": 229.0
+    },
+    "leaf_mold": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 115.0
+    },
+    "mosaic_virus": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 45.0
+    },
+    "septoria_leaf_spot": {
+      "precision": 0.9953051643192489,
+      "recall": 1.0,
+      "f1-score": 0.9976470588235294,
+      "support": 212.0
+    },
+    "spider_mite": {
+      "precision": 0.9852941176470589,
+      "recall": 1.0,
+      "f1-score": 0.9925925925925926,
+      "support": 201.0
+    },
+    "target_spot": {
+      "precision": 1.0,
+      "recall": 0.9761904761904762,
+      "f1-score": 0.9879518072289156,
+      "support": 168.0
+    },
+    "yellow_leaf_curl_virus": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 643.0
+    }
+  },
+  "run": "pv_ce",
+  "args": {
+    "dataset": "plantvillage",
+    "name": "pv_ce",
+    "model": "efficientnet_b0",
+    "epochs": 15,
+    "freeze_epochs": 2,
+    "batch_size": 32,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "dropout": 0.3,
+    "loss": "ce",
+    "class_weight": false,
+    "patience": 4,
+    "init": null,
+    "max_batches": 0,
+    "workers": 4
+  },
+  "best_val_macro_f1": 0.9973125757612596,
+  "epochs_trained": 15,
+  "train_time_s": 1457,
+  "n_params": 4020358
+}

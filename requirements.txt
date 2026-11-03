@@ -1,0 +1,10 @@
+# PyTorch dengan CUDA dipasang terpisah:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+tqdm
+ipykernel
+grad-cam

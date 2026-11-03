@@ -1,0 +1,623 @@
+path,label,split,md5
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs68.JPG,bacterial_spot,train,5c4f7ed28f8591f585507f9668165993
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs71.JPG,bacterial_spot,train,899381394895005a2d6a65ccbe9f3d15
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs37.JPG,bacterial_spot,train,a06fc49f328c189bbd25546d341b0758
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs33.JPG,bacterial_spot,train,9200f246297f0ba80e8b0c30cc2cd7a2
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs18.JPG,bacterial_spot,train,8c5a3c5c8ce35d2af49e0d34b7c25b73
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs28.JPG,bacterial_spot,train,ac62d3f562dd2ac0e8a730356e3f0ef2
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs50.JPG,bacterial_spot,train,48abafb4a1ffc8228d34269dec42669e
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs77.JPG,bacterial_spot,train,3a707afb6c140ca83909d69a9988bb39
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs14.JPG,bacterial_spot,train,322197c46b8ae8e2abb61a709a1d3f2f
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs75.JPG,bacterial_spot,train,43e98548aaa4a395496eacea3c40017c
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs47.JPG,bacterial_spot,train,1c23b4108cda2f65f6d13f9351ea5a41
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs100.JPG,bacterial_spot,train,6bb924102ea782119afea687673d569c
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs84.JPG,bacterial_spot,train,3cb807a50e8fd2666cdfd7fa9cdf2a3c
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs69.JPG,bacterial_spot,train,27842213826da8f6757a64a61428b50a
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs64.JPG,bacterial_spot,train,b49621305951bb9f0b8c88e1b96d8188
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs41.JPG,bacterial_spot,train,de879316ec403a5b1e766247ef53688c
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs76.JPG,bacterial_spot,train,43702e03f997f11b73cf3080b6b7d90c
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs40.JPG,bacterial_spot,train,4a021e01dfaaebb2176edc4981e6ac04
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs57.JPG,bacterial_spot,train,c1c006277d182abb785c1fc245a750e2
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs5.JPG,bacterial_spot,train,3c21b3db48fed3e9c94a1c082ab6d117
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs81.JPG,bacterial_spot,train,c1425e14f7e2bffaaabea63e8bf27e94
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs2.JPG,bacterial_spot,train,4ef32846d874e292d1b9adb0d252aafa
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs94.JPG,bacterial_spot,train,d4df84c58ebdf025fcc0ffd1c42c3e98
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs107.JPG,bacterial_spot,train,c778cc5bf1bbdc913747b04ac118d9fc
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs45.JPG,bacterial_spot,train,3650cb2730960b92d8a209bf3d9f6fb1
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs9.JPG,bacterial_spot,train,a6a61f25b72c7016a82e41680d1b27ac
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs44.JPG,bacterial_spot,train,cfb43e52eb81c8c9c7dea413e417dd38
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs67.JPG,bacterial_spot,train,c31c74c08f20ca7599e4182bf74faad6
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs36.JPG,bacterial_spot,train,a4b490a07725dbc396efdad4a06bd127
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs63.JPG,bacterial_spot,train,aec04623b4586dda727926b32d4f5ba2
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs43.JPG,bacterial_spot,train,b7291f3f859a5866fbde275949589d68
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs97.JPG,bacterial_spot,train,903805573aaf39af7fed41696e7f93b5
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs48.JPG,bacterial_spot,train,d14b4248e7ed232fecf0a09bf08bf6c6
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs85.JPG,bacterial_spot,train,2e584801b78b238ad012ecb8ab3508f3
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs111.JPG,bacterial_spot,train,7eac472bce64e85142c79673e03cd058
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs25.JPG,bacterial_spot,train,9405ee88e3f3f28227f293f5c010e088
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs17.JPG,bacterial_spot,train,fd5198f3c6e7ee58f7597e14032f8a23
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs79.JPG,bacterial_spot,train,1dee43f032066c5d37ff8a42ce66e4bf
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs55.JPG,bacterial_spot,train,4fe6648fcfee3fca2098ad2bfbc5ea3a
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs54.JPG,bacterial_spot,train,6bd1a53e8de61987a635d572b25040ff
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs106.JPG,bacterial_spot,train,e708e079b44e1b9b9330ab7421a6ef6c
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs38.JPG,bacterial_spot,train,1f3f2dd8df524016554de2b38f69ddec
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs8.JPG,bacterial_spot,train,35891f0fb1e972e7e44398f96b7c198a
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs101.JPG,bacterial_spot,train,a94ca0b8894876f4db64f20a147ec14e
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs15.JPG,bacterial_spot,train,782433c5196825368ac92ed705b67b5d
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs42.JPG,bacterial_spot,train,62d430282651b7e980226d5c587b6c0a
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs51.JPG,bacterial_spot,train,0d93e3c8956697809acad77c7c58db69
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs24.JPG,bacterial_spot,train,fa7c5701b17334c486d7910c64605411
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs7.JPG,bacterial_spot,train,943ec126ff5d5a15ac2369753c67023b
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs26.JPG,bacterial_spot,train,8c89ede3c6e86aa5004ff16b48778887
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs104.JPG,bacterial_spot,train,4e141dceb7cf19e3183d3a1a402368cc
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs105.JPG,bacterial_spot,train,fcb45ec516c9411435675b6b2cef55d3
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs73.JPG,bacterial_spot,train,76b1c338f86ecb2abe189a9a3a7d29e8
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs70.JPG,bacterial_spot,train,6db8cf99861f5538cd4d71837ce0d329
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs90.JPG,bacterial_spot,train,36f9a91e76a92987aa377e35be0818d7
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs108.JPG,bacterial_spot,train,3f55387b040cb56e38e3e5d75ac42e57
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs99.JPG,bacterial_spot,train,63a3810ddb4a6e9b13dd9498f346cf25
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs21.JPG,bacterial_spot,train,ff9f9219d0db93dc8668d749ffdf6010
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs80.JPG,bacterial_spot,train,0f7cf597fa7b3fa7280ffc55b8891069
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs49.JPG,bacterial_spot,train,4335cf0eb1071c5592c52918262c0da4
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs109.JPG,bacterial_spot,train,b8344ff1140e8b94377ab15164e06a31
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs56.JPG,bacterial_spot,train,62d43696c373b640cad139b3d191d25e
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs53.JPG,bacterial_spot,train,970333cca0336b04e22cbd53b5cce9a5
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs10.JPG,bacterial_spot,train,7a1c088442ca7c653377fa0d9e3af8ac
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs95.JPG,bacterial_spot,train,30bb2f433f0eee6d124c6faa2f727f6b
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs66.JPG,bacterial_spot,train,c170e1da778b312638af53b74c5fbfc1
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs93.JPG,bacterial_spot,train,928e361ad6f8ad0178264abb3435b236
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs6.JPG,bacterial_spot,train,4b35452e0291fb08ca9ec03d05187a15
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs27.JPG,bacterial_spot,train,df484ad19650d8e9c1d1fc3a1200711a
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs82.JPG,bacterial_spot,train,b366551f7d510e5c9fe123ebb7fe24e7
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs72.JPG,bacterial_spot,train,ffb6b3b343ff627a227d706668056b77
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs32.JPG,bacterial_spot,train,6efe5812beaf35ace28367bf33e5358a
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs29.JPG,bacterial_spot,train,d47b91e0b98e304bc23889725402e884
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs87.JPG,bacterial_spot,train,72e78d47add3865121860502d224c23f
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs96.JPG,bacterial_spot,train,2c212e9f16921f3eac617dc18a8e7e0d
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs103.JPG,bacterial_spot,val,fc545ae3aab266764c9328ee038e5819
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs62.JPG,bacterial_spot,val,893df38aa2aadf63761a5177c8ec7fc3
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs83.JPG,bacterial_spot,val,bc84ca6d407f0156d4b31c4420516776
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs11.JPG,bacterial_spot,val,1ed54400e4ca0ea3bfec1e7df60fca61
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs78.JPG,bacterial_spot,val,01b742a8d6f1e172cf80900495d6b5a4
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs12.JPG,bacterial_spot,val,9ddd46dfb2c70b7b13351dcb69a4d6f1
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs16.JPG,bacterial_spot,val,aa7c83223378d5bfd5dd574bb2850ff8
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs3.JPG,bacterial_spot,val,aea6beba6b3c0fc1503f351b635ad0d7
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs35.JPG,bacterial_spot,val,d775e3a7744cbbc604d0d6a59603eb92
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs39.JPG,bacterial_spot,val,071c4ec7b15b8f29518a64d9afe36b82
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs102.JPG,bacterial_spot,val,45ed82f3cf6ba51f7ed3690a069ef400
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs13.JPG,bacterial_spot,val,8514d5d26657898f5f05be2e7e63765d
+taiwan/taiwan/Preprocessed data/Train/Bacterial spot/Bs91.JPG,bacterial_spot,val,ada6dbe2dcdffc672f00077a01c33c37
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm41.JPG,black_mold,train,be65b5ceebf2f9b0d3a7dc233918c38f
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm1.jpg,black_mold,train,9e80f7a767d4d1ea76e754ba12249d97
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm17.jpg,black_mold,train,01dee1c1441055edec1ce044cc709fa8
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm34.JPG,black_mold,train,68c8685aa7f02af97e22e8fab151df69
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm53.JPG,black_mold,train,a8f5342de3926b5c132fb729076c7a81
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm32.JPG,black_mold,train,63c1e2da1c7172f71c5b827883dd4867
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm64.JPG,black_mold,train,39b40ecacabccc84bfe7573abe0fad10
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm49.JPG,black_mold,train,812598beaaff36b476986c2cda5fbb57
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm63.JPG,black_mold,train,84e2a65286aae20c8068c354658bb148
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm18.jpg,black_mold,train,ff6b336c227673d7de5211a3c9bf244f
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm35.JPG,black_mold,train,1897cf21c2a7fe925408195d6d78aa42
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm22.jpg,black_mold,train,9ef895baad21d5105ced2cbdb637ff70
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm40.JPG,black_mold,train,ea3eeeb6a0ccc13407e165654b4fd40b
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm42.JPG,black_mold,train,4f6e00929938a90c2575bed22901bef5
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm37.JPG,black_mold,train,d998fe8ef495d6846d03fb1dfa13ada9
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm10.jpg,black_mold,train,ae5ecaabf492fc50e7d68a6c14223358
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm61.JPG,black_mold,train,7b1daa03f5119caa66829ef952d3c615
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm51.JPG,black_mold,train,819795432674982e82c97331e3f43df1
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm48.JPG,black_mold,train,3552f8ea8bbc6ec3a7dbf8f1386e2819
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm57.JPG,black_mold,train,14ce4afe2a880f3891ccab724646f67f
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm19.jpg,black_mold,train,be0869d4763d3839c6e244d3a0ce8fa9
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm24.jpg,black_mold,train,afaf516ecb88ade16237b35861777f12
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm25.jpg,black_mold,train,4ba28c3fc18569dc5cbb96adda11e0da
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm55.JPG,black_mold,train,4f6cf6f956bf0771b5d3c8a793a579d3
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm52.JPG,black_mold,train,9c1111c9b9eb72fa6217fe4d95983e4e
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm31.JPG,black_mold,train,f71427c1c8c87e238e73b19013c0781e
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm45.JPG,black_mold,train,ce7b98bcf46572efc391a224f04ef5e4
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm47.JPG,black_mold,train,9c379234297ad4d367b8320cdddc39f6
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm5.jpg,black_mold,train,6fdf1089ec50ad35a4c961662af02143
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm9.jpg,black_mold,train,03d84507a8173063da151eb720890a30
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm36.JPG,black_mold,train,eb5dd31bf80a025d2d1ba49e0efa7fa4
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm28.jpg,black_mold,train,9e03068d6d1143dd62002f2a2a2e2321
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm2.jpg,black_mold,train,869a9d7c900ca4eae51c0aa4fd1e5be3
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm29.jpg,black_mold,train,880389671caa6ab1559a4bed9220c027
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm21.jpg,black_mold,train,b7b7f8495e26d0dcc84f10c5b561b72d
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm44.JPG,black_mold,train,3daf65f8ade30050001efa084373b979
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm6.jpg,black_mold,train,d68658e61305856d7f5e98d6b96e6d63
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm46.JPG,black_mold,train,7fcf44f226481e8cd516363611fd3f08
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm56.JPG,black_mold,train,ebae44fcefce2660a830d49477d424cb
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm60.JPG,black_mold,train,e19bfa92ced011c29eb32931c7970a1e
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm50.JPG,black_mold,train,92d927c3d9afc4891f6731106a029e57
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm26.jpg,black_mold,train,a2c7f73798a59b40d981cfe6356c143b
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm13.JPG,black_mold,train,543c802fc8921b4a18cca4cebe897dda
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm3.jpg,black_mold,train,b4ccae8ff728bdce5db58913c508e10e
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm38.JPG,black_mold,train,f8503712428265328d9aa11b3c96d282
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm8.jpg,black_mold,val,b385bbd07f1ea62a93231ca4df9fc8a9
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm11.jpg,black_mold,val,b0eb56e82ffc3e8c7064c8a94bd091c1
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm27.jpg,black_mold,val,1733fee0832604808e11d3b9c429cc8a
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm12.jpg,black_mold,val,2c5377245b6c7e4b9da9fa0f659bb9e4
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm7.jpg,black_mold,val,e7fcbb3a1a2c5d156ce70d6e65723745
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm65.JPG,black_mold,val,e9ec66821b782714b8858ff12c882705
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm33.JPG,black_mold,val,ac269a5ebaa97edbc5f4b5d32e5df4a8
+taiwan/taiwan/Preprocessed data/Train/Black mold/Blm59.JPG,black_mold,val,46d8fa54f0e2447b1753e35c855d742c
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls53.JPG,gray_spot,train,e0310db05d849294089d5ca6e1264412
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls77.JPG,gray_spot,train,c1a7bfa4cfa08c6a85697dc8947e73fc
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls44.jpg,gray_spot,train,34f07c8bd6a78f405b38ece524a30a30
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls7.jpg,gray_spot,train,f8a8a5d7fcac3cc60d98a2407d2d4de4
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls37.jpg,gray_spot,train,65d57fb8ba7e6162e2b5651cfcc02bd7
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls72.jpg,gray_spot,train,11e8fd3aacd01b5ee60eedf204cc14ae
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls81.JPG,gray_spot,train,bd9d50557e2d372e5ede961b38bc1dde
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls51.JPG,gray_spot,train,21c1ba9108d058da3c6a8504cf784103
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls73.jpg,gray_spot,train,94fe73189a3a6c4fa1dd0cf42b5f1644
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls80.JPG,gray_spot,train,6327ca30e3a6433ae6fafda553437c8e
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls15.JPG,gray_spot,train,509fcff159d836d5bec5e7d57c55097c
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls68.JPG,gray_spot,train,295d833fe4b0274641a4e607b6473b76
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls6.jpg,gray_spot,train,36011392b3e2141766e1becb67b3722f
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls24.jpg,gray_spot,train,39da14951b1925ead69a064c27bcf474
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls79.JPG,gray_spot,train,971aa3ab83185ef2272ed71b48de6f7b
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls2.JPG,gray_spot,train,6f99c9a0b169f3a152201d28f0ec5df2
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls17.jpg,gray_spot,train,2d4d10ccb49e28906df6dac2ac9553f5
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls36.jpg,gray_spot,train,b79f145c988f4f133645cbad3a32aa11
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls39.jpg,gray_spot,train,cac35a916ee84ca316ac7c4e29891389
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls52.JPG,gray_spot,train,bb68879591cd0eea7e4d171028f662c0
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls16.JPG,gray_spot,train,2d5a99ccdc379ee0469afcfcb6bc33e1
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls3.jpg,gray_spot,train,1332de18144f90030faaf75c2aabfc5e
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls40.jpg,gray_spot,train,f27ed07990751276115cb762cc342090
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls27.jpg,gray_spot,train,a41dd68cfc0a786a1b0e89679e54ac5e
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls62.JPG,gray_spot,train,4d1c2814feae2c0ce13931030ff8e1d4
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls42.jpg,gray_spot,train,6a3336c0194319e4c90495c6d5922b4f
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls12.jpg,gray_spot,train,67dae284d6fcbae70b27404a82cc9d06
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls8.jpg,gray_spot,train,d86a704024280e8cc60682da9fed9b48
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls46.jpg,gray_spot,train,329837e26313cd7b4bfaaa88af8b9e17
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls56.JPG,gray_spot,train,63bab37b25a736add1419352ba6aa211
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls61.JPG,gray_spot,train,2b8274fd7baa44668b525733df47e959
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls65.JPG,gray_spot,train,cc6cc484e9c74c1aaf7b233b53a12c03
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls59.JPG,gray_spot,train,e261d25713855bad74584eb8647141c4
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls19.jpg,gray_spot,train,a8665494347e845d63233b70134c98d4
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls11.jpg,gray_spot,train,d92f1ad92ccad196d96a52db120be159
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls47.jpg,gray_spot,train,1d2b42407293ade5b4db7d2b0f99bd45
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls35.jpg,gray_spot,train,28fd39d7fd583d0bf62ed31352ac8bde
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls76.JPG,gray_spot,train,5b5289d8a580de2e138a052597d5978c
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls5.JPG,gray_spot,train,4eafbb5a80b312a40777a87cc88a23ab
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls82.JPG,gray_spot,train,db918d633acb80c9bc5f7b0d2f487b56
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls78.JPG,gray_spot,train,5a5f339174b05d5922ae1c7c7111c97a
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls38.jpg,gray_spot,train,48b36c28b3eaef53e8bbd4caccf974d9
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls20.jpg,gray_spot,train,540372a23e9dca8673045f22ce7e8ba4
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls23.jpg,gray_spot,train,54d0fe22db1b9d09c586a4c1e39592f5
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls54.JPG,gray_spot,train,8cf30d4a56c0a5c855d3c9f91b72f219
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls69.JPG,gray_spot,train,085f013dba5b550058fc9fdd54af6a81
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls70.jpg,gray_spot,train,1c4e6289c1ed608f38be4a6cbaf12db9
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls33.jpg,gray_spot,train,292d959aeaa0672cac608fe473bd79e5
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls58.JPG,gray_spot,train,8967dfe0fce5b4668e1e71ccc6b0f2a1
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls18.jpg,gray_spot,train,31a80e5ed8fa494e54cb1464fea2803a
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls71.jpg,gray_spot,train,ba25bfdb0370b917e9c447bbbefc187a
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls22.jpg,gray_spot,train,f55126a7383fe704e39db675abdeae56
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls66.JPG,gray_spot,train,5fa2fbdea00f4df53a33df5ffef73975
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls49.JPG,gray_spot,train,d74f247b265722097d264d5ecaf18cfa
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls28.JPG,gray_spot,train,2333b11f254aac9abb80fef2bf166149
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls75.jpg,gray_spot,train,f7970e8a68814d000eb00e30c99531be
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls74.jpg,gray_spot,train,5b85b28b91ad6305c1f4a26009dcfbe7
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls63.JPG,gray_spot,val,7a141f79b03efe59ca67c74fc08bbc17
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls1.jpg,gray_spot,val,2525da893ec01db0370f6e00a325f1e9
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls45.jpg,gray_spot,val,709538bea471d204d96156ad588e8896
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls21.jpg,gray_spot,val,dbb79b5eeb23c659601cff3a55bc60c7
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls43.jpg,gray_spot,val,2071c47910f72d7ce0eca22e4c22765e
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls32.jpg,gray_spot,val,41b0aa94a12d16ff79c097a3f36d3f39
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls9.jpg,gray_spot,val,18b2aacc65dca4252863c38ebd8f56bc
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls60.JPG,gray_spot,val,9bc99ae497dd5ec719a7aef03940d76a
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls50.JPG,gray_spot,val,d8387197e58180e07b0c358db2f141bb
+taiwan/taiwan/Preprocessed data/Train/Gray spot/Gls25.jpg,gray_spot,val,72c7257904881391a85a8ff34fae8795
+taiwan/taiwan/Preprocessed data/Train/health/h13.jpg,healthy,train,8a6a0fa987722472d7a5d56512edd6b3
+taiwan/taiwan/Preprocessed data/Train/health/h86.jpg,healthy,train,f724d99852ed3a652655406b5421894b
+taiwan/taiwan/Preprocessed data/Train/health/h47.jpg,healthy,train,183afd9d7fa0bc0c9431043d965eb036
+taiwan/taiwan/Preprocessed data/Train/health/h20.jpg,healthy,train,4e914b6725cc9008a5b4b642cacc6715
+taiwan/taiwan/Preprocessed data/Train/health/h18.jpg,healthy,train,fddf064c7118336361b7565223ffce41
+taiwan/taiwan/Preprocessed data/Train/health/h63.jpg,healthy,train,9830f47e134ea73a1bf4edb748e6f988
+taiwan/taiwan/Preprocessed data/Train/health/h12.jpg,healthy,train,271732e4620a59d7f5166787e5238a40
+taiwan/taiwan/Preprocessed data/Train/health/h51.jpg,healthy,train,464fc4b50c9800c866255bfacdc9bd7a
+taiwan/taiwan/Preprocessed data/Train/health/h77.jpg,healthy,train,a51c8dc582866cac19e0d8135daf9d30
+taiwan/taiwan/Preprocessed data/Train/health/h25.jpg,healthy,train,6de3f557d233432302104cbbfeda0c33
+taiwan/taiwan/Preprocessed data/Train/health/h7.jpg,healthy,train,c8e75d57bb291ca974436f94794df5b3
+taiwan/taiwan/Preprocessed data/Train/health/h39.jpg,healthy,train,45641b7cdf8d40a63efc9e98c6cba216
+taiwan/taiwan/Preprocessed data/Train/health/h21.jpg,healthy,train,27d8fa4e3afef562e20c8d8d3e6a4756
+taiwan/taiwan/Preprocessed data/Train/health/h71.jpg,healthy,train,fc9507840b96f54f3dfa3ad74dcd742c
+taiwan/taiwan/Preprocessed data/Train/health/h74.jpg,healthy,train,c4e180af8fe50f6e405082cee85e3e2b
+taiwan/taiwan/Preprocessed data/Train/health/h93.jpg,healthy,train,67087cce5d2022af181c923f4c42a180
+taiwan/taiwan/Preprocessed data/Train/health/h85.jpg,healthy,train,9b9d4fc236b6d16a4d9201277e52ba07
+taiwan/taiwan/Preprocessed data/Train/health/h22.jpg,healthy,train,393eb7bd07fb793c5060ca07cabfda5d
+taiwan/taiwan/Preprocessed data/Train/health/h10.jpg,healthy,train,efab306259ece0d380f3dfe80ef692f9
+taiwan/taiwan/Preprocessed data/Train/health/h42.jpg,healthy,train,02e5a956a724f11140e4b590a41ae4f6
+taiwan/taiwan/Preprocessed data/Train/health/h60.jpg,healthy,train,3dd74ca7fed4a66c344a9a1ce2a6f43e
+taiwan/taiwan/Preprocessed data/Train/health/h26.jpg,healthy,train,93648b24e9075b306828701cda667836
+taiwan/taiwan/Preprocessed data/Train/health/h92.jpg,healthy,train,b93dd0c6f8cfbea7f3581eb8bfbbe131
+taiwan/taiwan/Preprocessed data/Train/health/h82.jpg,healthy,train,a29b7b8dbc7d316a9ae691c1cf08bcd7
+taiwan/taiwan/Preprocessed data/Train/health/h46.jpg,healthy,train,f7a87e163e63b70a8047d8731e1a6fd7
+taiwan/taiwan/Preprocessed data/Train/health/h69.jpg,healthy,train,54dd4d07e960c21363a4e238493c268e
+taiwan/taiwan/Preprocessed data/Train/health/h103.jpg,healthy,train,4dc616bb55ccb090518130a70b1e1f6d
+taiwan/taiwan/Preprocessed data/Train/health/h70.jpg,healthy,train,f816585882c1b1d0c196fddaf8b5af5d
+taiwan/taiwan/Preprocessed data/Train/health/h79.jpg,healthy,train,4a3dd7dd803205c685cb4579ee234dd7
+taiwan/taiwan/Preprocessed data/Train/health/h16.jpg,healthy,train,410c94a57f70e15d155804b98736b170
+taiwan/taiwan/Preprocessed data/Train/health/h2.jpg,healthy,train,26c86791d075bc758d78c683186dff54
+taiwan/taiwan/Preprocessed data/Train/health/h38.jpg,healthy,train,074d07e30d190e89569cb125c7a063ef
+taiwan/taiwan/Preprocessed data/Train/health/h57.jpg,healthy,train,44844fe615eaf74dccbf40724a732138
+taiwan/taiwan/Preprocessed data/Train/health/h61.jpg,healthy,train,0a64d8263248f0a79e3d0005ecbb5403
+taiwan/taiwan/Preprocessed data/Train/health/h43.jpg,healthy,train,3a39a0d964e6d8446ac6f5607827035f
+taiwan/taiwan/Preprocessed data/Train/health/h23.jpg,healthy,train,d30d9e129e11f47304cc624f2af78bae
+taiwan/taiwan/Preprocessed data/Train/health/h30.jpg,healthy,train,8d4aa9021161a8aa7946de67d6460e46
+taiwan/taiwan/Preprocessed data/Train/health/h45.jpg,healthy,train,f4605923733b1e63c30c3398a292ad1e
+taiwan/taiwan/Preprocessed data/Train/health/h66.jpg,healthy,train,92df4e0ac699f2d561eeb2d818211e82
+taiwan/taiwan/Preprocessed data/Train/health/h101.jpg,healthy,train,b2310631d9512caee0f0201064c8c0ed
+taiwan/taiwan/Preprocessed data/Train/health/h89.jpg,healthy,train,2803184b7f977fa23a2299d8bd917dc1
+taiwan/taiwan/Preprocessed data/Train/health/h58.jpg,healthy,train,bd8aef4d9366eb7a2fa614386628f17b
+taiwan/taiwan/Preprocessed data/Train/health/h50.jpg,healthy,train,5f8e84b0f9de205b51c094125456377b
+taiwan/taiwan/Preprocessed data/Train/health/h24.jpg,healthy,train,fe2412951803de21a53c5edd0cd8e349
+taiwan/taiwan/Preprocessed data/Train/health/h32.jpg,healthy,train,ee95ac0f8babede5b595db89b05e1629
+taiwan/taiwan/Preprocessed data/Train/health/h73.jpg,healthy,train,4fa433f2aceb17ee20dcac30d5ba0ebb
+taiwan/taiwan/Preprocessed data/Train/health/h56.jpg,healthy,train,af10dd375bcded4d4a0705f9fbb47c05
+taiwan/taiwan/Preprocessed data/Train/health/h104.jpg,healthy,train,5aaf2bbebb64b2d867335e4aa6eaf4de
+taiwan/taiwan/Preprocessed data/Train/health/h14.jpg,healthy,train,7e1e0e4ab133694185690e514891f694
+taiwan/taiwan/Preprocessed data/Train/health/h31.jpg,healthy,train,ac6664274a02b5c982be11f1f55b2974
+taiwan/taiwan/Preprocessed data/Train/health/h62.jpg,healthy,train,2f4e7091921d5ab037d7cae20f4a5441
+taiwan/taiwan/Preprocessed data/Train/health/h6.jpg,healthy,train,6980857cc33f0cf8c680d70d1139c5bb
+taiwan/taiwan/Preprocessed data/Train/health/h99.jpg,healthy,train,ca04ba307918e38fa14e85d18205fff2
+taiwan/taiwan/Preprocessed data/Train/health/h75.jpg,healthy,train,df5e0c8927a8a04b61cf55849f3f52df
+taiwan/taiwan/Preprocessed data/Train/health/h64.jpg,healthy,train,91d5666939db64b6ffd3f77e3b1586e8
+taiwan/taiwan/Preprocessed data/Train/health/h41.jpg,healthy,train,016ef5f4c789d1cb54af7bbebe465521
+taiwan/taiwan/Preprocessed data/Train/health/h65.jpg,healthy,train,470ae1c30c1cbe45f26ce9aa3fa51779
+taiwan/taiwan/Preprocessed data/Train/health/h55.jpg,healthy,train,5e99d4886b61bf7bf259ea2ef6f06dcf
+taiwan/taiwan/Preprocessed data/Train/health/h8.jpg,healthy,train,5a936b661e4ec4f81c1b20b11df316f1
+taiwan/taiwan/Preprocessed data/Train/health/h4.jpg,healthy,train,c45ee13be09035ab54db74189d30b747
+taiwan/taiwan/Preprocessed data/Train/health/h15.jpg,healthy,train,a189ba3e7b7aadcae3e096864bc6b22e
+taiwan/taiwan/Preprocessed data/Train/health/h98.jpg,healthy,train,0c985e92e0d477f5a6ab655d88ddbc49
+taiwan/taiwan/Preprocessed data/Train/health/h78.jpg,healthy,train,fd1c102e345f7a7d421cee1ed916d3bd
+taiwan/taiwan/Preprocessed data/Train/health/h40.jpg,healthy,train,11c2b385b9a585fb1bb76a0e5cd8c95e
+taiwan/taiwan/Preprocessed data/Train/health/h35.jpg,healthy,train,4f1ac72396ff908fdf3fecf6aba0003e
+taiwan/taiwan/Preprocessed data/Train/health/h76.jpg,healthy,train,46fc9b9f00916ecbc5c6084411cc485b
+taiwan/taiwan/Preprocessed data/Train/health/h83.jpg,healthy,train,a28e7d583670b47cf1d540c65b5db7be
+taiwan/taiwan/Preprocessed data/Train/health/h48.jpg,healthy,train,7b12cd73d7a84d0f24314986ddd45554
+taiwan/taiwan/Preprocessed data/Train/health/h102.jpg,healthy,train,1baebef79ff0c2c26f781dd4cf4fa5d2
+taiwan/taiwan/Preprocessed data/Train/health/h94.jpg,healthy,train,c7d8371d3459bafcecb891e7fb5b6655
+taiwan/taiwan/Preprocessed data/Train/health/h90.jpg,healthy,train,2ca4d1d49de8b954736b49fdb4814965
+taiwan/taiwan/Preprocessed data/Train/health/h105.jpg,healthy,val,f068011dfdea5b5b81959d632213808d
+taiwan/taiwan/Preprocessed data/Train/health/h11.jpg,healthy,val,c1a0057bda6fc934f4e5b11df5c10388
+taiwan/taiwan/Preprocessed data/Train/health/h1.jpg,healthy,val,3f0d5e2d0f1ec25b704c4b0563c3b63c
+taiwan/taiwan/Preprocessed data/Train/health/h95.jpg,healthy,val,dcbdb466b9a394b20fa2e0de9f2ee190
+taiwan/taiwan/Preprocessed data/Train/health/h34.jpg,healthy,val,266e2190ca69dfd2e35824fa5a2b5e90
+taiwan/taiwan/Preprocessed data/Train/health/h80.jpg,healthy,val,66277e40b329a7f2f7180e32a615e335
+taiwan/taiwan/Preprocessed data/Train/health/h88.jpg,healthy,val,56ae0ebb94b9ca62d85dfba67427ab82
+taiwan/taiwan/Preprocessed data/Train/health/h100.jpg,healthy,val,7cc07b3761ff49c11417151ad50d0a9f
+taiwan/taiwan/Preprocessed data/Train/health/h5.jpg,healthy,val,58cc5993c302444ec7cd2977ead5a128
+taiwan/taiwan/Preprocessed data/Train/health/h106.jpg,healthy,val,54741bbacdeb5f38639ffb050b1f03ba
+taiwan/taiwan/Preprocessed data/Train/health/h33.jpg,healthy,val,4621062509d490eb331cf85bfb369646
+taiwan/taiwan/Preprocessed data/Train/health/h36.jpg,healthy,val,1dc824b914d9c4ed27e63accacbc538d
+taiwan/taiwan/Preprocessed data/Train/health/h17.jpg,healthy,val,2dabd2218acdbe129a46e2fc4cc3c05f
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb60.JPG,late_blight,train,aeff54c8680588ee71f4b9a28bc84b04
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb63.JPG,late_blight,train,a7a21c8803c397593cd46a1c3fa7b69e
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb9.JPG,late_blight,train,4b89e60b0b1991ad5e1ddc61051e7d9f
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb45.JPG,late_blight,train,be1371239aedbb32b004e8f15d29f6f3
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb8.JPG,late_blight,train,1bf29ac40d04e10a3b7f9938efbfb883
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb89.JPG,late_blight,train,0eb98d6f1652bc0a8531b75f0ee3c0da
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb39.JPG,late_blight,train,32320310cefc2fd824c3fda5bda00001
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb70.JPG,late_blight,train,583ff0f43d7e15dc772271a6e52dffb7
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb69.JPG,late_blight,train,2ada787cb3559b338d1c9b9179e1d470
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb30.JPG,late_blight,train,193135a08ac2878c706cc63b098bad5d
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb13.JPG,late_blight,train,b27f178ca85a63ef9d373bb35415af38
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb84.JPG,late_blight,train,ca045d1e8c990d7d6f6fd430e89f9002
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb53.JPG,late_blight,train,b806f602e239ad1a91505bbee6c3530f
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb87.JPG,late_blight,train,da3e039ac0c7573a85464cdee292ac91
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb46.JPG,late_blight,train,fedbf11fbaadd1e85cfb3159ccb81e37
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb19.JPG,late_blight,train,ec677460cbc22c98ce88d1b8b6ce6227
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb6.JPG,late_blight,train,d0b98e8e313a39455356e44b5038633d
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb76.JPG,late_blight,train,0d6aa4795d09bc135b6594744a591f1d
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb31.JPG,late_blight,train,1daaf0644e7fe7acd21f3e60482a9b86
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb40.JPG,late_blight,train,71f1b4349fb5e8600160b943d7b226f0
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb12.JPG,late_blight,train,cbf65edad5c3f6c429a207ca0744568d
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb58.JPG,late_blight,train,ff1ed4773b17e01118e5e138a6c51f94
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb72.JPG,late_blight,train,b92e71d2dfdc334da246b9b448eba6cc
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb28.JPG,late_blight,train,19738dd0c576d085c2de85d91d40d877
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb21.JPG,late_blight,train,e88d79364090072719c4906c97a8b981
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb49.JPG,late_blight,train,3ae346bc9d0fc175689f6754b5218874
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb38.JPG,late_blight,train,cc364098f2e0e6637e79ca33bec8b591
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb66.JPG,late_blight,train,5ffc7cea8913f9f9167907bcc52722e1
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb25.JPG,late_blight,train,b79c6cf48d59209701d51e22799758db
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb20.JPG,late_blight,train,ddc0b7c4e19e9ebc2f73d08b1cfbb341
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb62.JPG,late_blight,train,f9d9d2c7b5a62f0681be08632601f5cf
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb52.JPG,late_blight,train,4d8737fe90f268da63d53963fd4312a8
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb26.JPG,late_blight,train,131e2bf1127ff16c90d303f5893d6755
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb3.JPG,late_blight,train,31ca2c95be09f30e8edad28e32d0a532
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb37.JPG,late_blight,train,4812f9e82dc5a79ce70e2ceb35afa092
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb73.JPG,late_blight,train,592eacb7b1f3d58be8a5d6b667feb27e
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb65.JPG,late_blight,train,61f07d2bfeb5db6da939788be15c11d0
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb43.JPG,late_blight,train,e1987876f44fb2b99c0ddcb949c18454
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb7.JPG,late_blight,train,85ccf989947c895a39e43258e6b3bf0b
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb15.JPG,late_blight,train,a6768b32fa7c4a01755067a2d5b4f4ee
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb97.JPG,late_blight,train,5aa23a79a81c5f26ef58f54fb5a7734d
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb80.JPG,late_blight,train,7aa9ebdd84b0ff15d4fa20b094633771
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb64.JPG,late_blight,train,6b960fa15edead76c5f1a56bf3787356
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb94.JPG,late_blight,train,ca4a594b1285294707a425116a10f634
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb82.JPG,late_blight,train,5016122b31696264b12a005885958ee7
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb42.JPG,late_blight,train,83ef08dfcd281065fd32e68a232d6dcb
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb29.JPG,late_blight,train,24bb8f383a99f23194be6fdfc4783751
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb61.JPG,late_blight,train,17ecf8c847ee8fba1ef1b74d263fc554
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb68.JPG,late_blight,train,499822dd657b1c37957882a9c397d664
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb57.JPG,late_blight,train,03bf50b5b52ddccda9377d573d1bd9b6
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb17.JPG,late_blight,train,b27ec839ebf1c0277375122323ac0d00
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb24.JPG,late_blight,train,dd6bf4ec2eca2b0ad231eaffb30a85e0
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb18.JPG,late_blight,train,bb72a15e481b4c63d6d8015c5dc33101
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb79.JPG,late_blight,train,1b6f834477b5fa1ebabfba76951eac08
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb91.JPG,late_blight,train,09e47cc75f06590647447ca613ac2724
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb23.JPG,late_blight,train,2060799577f21cfa71c591ad85322e12
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb96.JPG,late_blight,train,8859abc81189f22945ac86a8838098f6
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb92.JPG,late_blight,train,9d691daff5e23ad3d8cd77dc736c96d0
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb95.JPG,late_blight,train,21e9f2bd4f371cd3fa0d1ba682c22b09
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb5.JPG,late_blight,train,a5c6ead2a62103801b86e90ffa69a9eb
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb47.JPG,late_blight,train,44cde39a60b5f837fa6798d3ba668e41
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb88.JPG,late_blight,train,96d477e76de3d4c38a7958f7b0021306
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb16.JPG,late_blight,train,7b7f792d815c76925d41e269a2d39491
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb85.JPG,late_blight,train,d1e82773cf7013083bedb2b008c5acbc
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb59.JPG,late_blight,train,87b7a8c3b9b250ac38d33d390934a8ee
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb86.JPG,late_blight,train,182091c19a1d7fde982471bd263d6737
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb2.JPG,late_blight,val,dea1b17bbb9f3843b53e67bbf24348be
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb44.JPG,late_blight,val,ef52154f7f86ca459c3fe12814325cc0
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb55.JPG,late_blight,val,11ede867daaf4c16e687b7994629d746
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb41.JPG,late_blight,val,71b55268fee3736a04dac087050e36c8
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb36.JPG,late_blight,val,827d313a61400eceda43af83c3439aa9
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb81.JPG,late_blight,val,76164d2709eae0ba6182d3ae1c7aea5c
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb90.JPG,late_blight,val,03825ad646f5ce1ef902ba8dbb64c3f1
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb71.JPG,late_blight,val,bc6a26a2b4b9e3b7a4266482d6dfe6fa
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb54.JPG,late_blight,val,d5bd283abf40c1cf2e1402b81f74cc62
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb77.JPG,late_blight,val,1beb653017e0d12c8ebc491cdf04fe31
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb50.JPG,late_blight,val,f3f589abe12f42fc223418adfbb4c801
+taiwan/taiwan/Preprocessed data/Train/Late blight/Lb67.JPG,late_blight,val,55103b8b60cc6ecf5137f72d3847b96e
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm102.jpg,powdery_mildew,train,dc755ee5433aab99fdd36e1f0f9f5460
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm50.jpg,powdery_mildew,train,434615cb423d5c148d5065d74a7cf7a6
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm41.JPG,powdery_mildew,train,44d7a818a1b7f567ee97269ca2e7feb4
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm135.jpg,powdery_mildew,train,1adc3225ffd1276832f00c68b894d15f
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm78.JPG,powdery_mildew,train,9e8a7a3d3b8b9a71785933aff67aec5e
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm131.jpg,powdery_mildew,train,f12c37428d8f861120c480ef077e9df0
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm144.jpg,powdery_mildew,train,3977c706fa68889c47338a0aa8840ff4
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm48.jpg,powdery_mildew,train,1a5f2d9265460b8a42f0e969ad4ddaf1
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm40.jpg,powdery_mildew,train,c030bfd616218fc019f772c5263199b6
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm31.jpg,powdery_mildew,train,d689378ef682fde97ecd5eb792b5c5ea
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm140.jpg,powdery_mildew,train,797b717bdeb65ef24c72396c2fd44eb8
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm30.jpg,powdery_mildew,train,9d0f56cf75929b3b12d1077de9f0d3b3
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm143.jpg,powdery_mildew,train,7e574275e010cbd8544731b2b8ea0b46
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm9.jpg,powdery_mildew,train,d82f02e96b8f325add37684f64aff317
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm93.jpg,powdery_mildew,train,7a2f6c09f3d455ae5dc0fd17266635df
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm127.jpg,powdery_mildew,train,ae4e9e07f338001afe33b69f2c7fd210
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm68.JPG,powdery_mildew,train,a1d99675b64e5bd777ba23a638217cdd
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm44.jpg,powdery_mildew,train,48613001d6e0ff98b9f21d93162a7326
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm77.JPG,powdery_mildew,train,42c185a26f8fcf0f6614a8efc3ce14c4
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm108.jpg,powdery_mildew,train,a734d16471958154f54c4269d682ff2b
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm19.JPG,powdery_mildew,train,844ceb4db3926486fb23a33fcf9de086
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm99.jpg,powdery_mildew,train,b49d54b6353b41fc615c0d945186b0a9
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm94.jpg,powdery_mildew,train,882a6832566f00163ed56c4d29f386e5
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm149.jpg,powdery_mildew,train,7ee80ce917d57b8f28c21c8287d740b5
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm57.jpg,powdery_mildew,train,bd3dee74c21f3eda4527add37de6ecc1
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm65.JPG,powdery_mildew,train,16d76cb9283305ee74dda0a5c2c3cb9d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm107.jpg,powdery_mildew,train,dfd3bf93547c691d83bfd10cd1547565
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm130.jpg,powdery_mildew,train,34464910522aa1303683c724ba440080
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm129.jpg,powdery_mildew,train,375a5818223b0230d82015fd27dd1ee1
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm67.JPG,powdery_mildew,train,478487e650eaf4904a8d981dfc3f63dc
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm17.jpg,powdery_mildew,train,5673cb0bde44a60d1e05970f89dd86ca
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm23.JPG,powdery_mildew,train,bb11aad30c218629fda147e10e4c0fb3
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm132.jpg,powdery_mildew,train,45d7ecc7faca2d60f181939b66845c7b
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm112.jpg,powdery_mildew,train,1d2f87eca189666012b6db79499b55ca
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm46.jpg,powdery_mildew,train,21bba6e4e1b90e32969aa059d1e1be5d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm133.jpg,powdery_mildew,train,4d4cf4a7f698cb9438068fd5e81827f4
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm101.jpg,powdery_mildew,train,25b577f43772f4d838999e09f9799dde
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm128.jpg,powdery_mildew,train,0c015cef5bfe53e5ca07da20e969d01d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm24.JPG,powdery_mildew,train,40aac5a3b8ed552625a156b9353da742
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm22.JPG,powdery_mildew,train,0494738101928b6389c288d277e3f33d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm87.JPG,powdery_mildew,train,32b43874f355d2d16b7e2da6c81ff874
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm16.JPG,powdery_mildew,train,7f8e882ed223574a103ea3085104ddb0
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm26.jpg,powdery_mildew,train,2e0ff299875238b4ecc0f8959ac95f04
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm18.JPG,powdery_mildew,train,a216868cbcf7fbad4e2e7cc37a0e0433
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm122.jpg,powdery_mildew,train,ac3996764df1f63a7ed784e1ce35c996
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm154.jpg,powdery_mildew,train,0c79fa7fad60348ac2c5a41b203760ef
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm47.jpg,powdery_mildew,train,e27e309ce1da5a96d63a44808a6588ff
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm53.jpg,powdery_mildew,train,a4d4bdbcd6e171835acf3800aa669049
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm62.JPG,powdery_mildew,train,4b959c0eb4bda39c44cdf9056655bca8
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm110.jpg,powdery_mildew,train,3c59622c61e4986e40be7ceb0a829a91
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm27.jpg,powdery_mildew,train,da956006c343a16fed17a5ca08d77a55
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm76.JPG,powdery_mildew,train,d36205bc41d0a1aeacb6e5b29dbebf0c
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm4.JPG,powdery_mildew,train,ee3d82133e4d4d82bed8674f59e137f4
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm33.jpg,powdery_mildew,train,4332e06674f9e54b697a3904876c245d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm29.jpg,powdery_mildew,train,531fa40d392962333efd6c58772edd49
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm39.jpg,powdery_mildew,train,72ad0a2628e576a0b8e3aca1f1064234
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm98.jpg,powdery_mildew,train,bfb2a086b46833144016cecb11dc4e4d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm157.JPG,powdery_mildew,train,772f581b2a3cbab48366481e7d5c0513
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm123.jpg,powdery_mildew,train,338ab5af369992207ac97d390f1aef3c
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm82.JPG,powdery_mildew,train,cb8bda5fe34a28f096a788b7726b08e7
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm56.JPG,powdery_mildew,train,b12c5ccb19b772dd0544e7d901315146
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm115.jpg,powdery_mildew,train,827f79dae9b49f36de67d1ee87a39210
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm72.JPG,powdery_mildew,train,ce7486dfe5cd13c9664d352b14b9382e
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm71.JPG,powdery_mildew,train,61301e607fdcad4d7fef945ad7068227
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm15.JPG,powdery_mildew,train,9b8ccfb81f2b1019aafffddcb062b12e
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm34.JPG,powdery_mildew,train,fcf8f03de02916f6c6d1f7277995f5cb
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm151.jpg,powdery_mildew,train,76da8ebc8fe9ee1e5e9a1f357a0628bd
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm142.jpg,powdery_mildew,train,7f6edec00bf40b7bf975a08ba7177779
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm58.jpg,powdery_mildew,train,9b4b7c24a10a470ed028de271b0ace27
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm70.JPG,powdery_mildew,train,f81a54fa895515ff932f80bebc9a8da1
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm20.JPG,powdery_mildew,train,7a52ad1fe6bcbd076846091d2da86007
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm119.jpg,powdery_mildew,train,0a5afacc31253eaedcca4422b79771ed
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm5.JPG,powdery_mildew,train,686df2b07f4289b4aa1c48ef5270cd12
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm153.jpg,powdery_mildew,train,cf5d7b0eb02162db269ce882b3f8fe95
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm103.jpg,powdery_mildew,train,9888bd043f897acd8f792719ec1997ff
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm35.jpg,powdery_mildew,train,5cde7e54641f5fe709f2b05fd0924318
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm79.JPG,powdery_mildew,train,ca2fe14caec06af451fc829ae01c3fa8
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm11.jpg,powdery_mildew,train,3b068f3637e68a532f71bb76567241f6
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm85.JPG,powdery_mildew,train,bea68948f437f67c6e6bc9c7a16fd82e
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm10.jpg,powdery_mildew,train,b5f4182c07f74d47a539b93368f94ff2
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm37.jpg,powdery_mildew,train,7e617cd77736ad2f41daec7404781b6c
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm60.JPG,powdery_mildew,train,74be5c3d054435e704cf0778a6118585
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm81.JPG,powdery_mildew,train,52edc465c42d5fcc6312bc8355145f3d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm21.JPG,powdery_mildew,train,adabeed104c391da36717d782853093f
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm121.jpg,powdery_mildew,train,b06cd7f43272d0759e32efa96b0c4d42
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm69.JPG,powdery_mildew,train,1ca88a1e6f61125ad9d11019224337a3
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm61.JPG,powdery_mildew,train,1d29235551a3a115ca3160ba7ed1295d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm116.jpg,powdery_mildew,train,0c7f79f8cedd536a8931ad981d82ab80
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm145.jpg,powdery_mildew,train,d36ce73f41d0e30eb50dd8c21abac99e
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm1.jpg,powdery_mildew,train,93ecf36bc20248ce8d7be9e80b53c0e7
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm105.jpg,powdery_mildew,train,7299950ec3205a3ef7bec4c412589019
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm139.jpg,powdery_mildew,train,9693d26411d9733a996c1d400dc1451f
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm2.JPG,powdery_mildew,train,ec137476bd0b42356a822764dcdce377
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm7.jpg,powdery_mildew,train,2564db1faaa3c474fc10351cc1bafc50
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm111.jpg,powdery_mildew,train,ffc1867b37eecb431dbee699f927e7d0
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm106.jpg,powdery_mildew,train,73996a1c560851e0b0584da064a7dc6f
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm136.jpg,powdery_mildew,train,e9eb23889ccdc37d3e9807c578b7500d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm28.jpg,powdery_mildew,train,87398a05788d47933a698ac27de9527d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm3.JPG,powdery_mildew,train,9e691da0db2c8c0c4adb2b1f59240d4f
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm86.JPG,powdery_mildew,train,18be6226296232b32aff6c5474c90ed1
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm49.jpg,powdery_mildew,train,ca358f7cfbd5facb3bae6a590510398b
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm54.jpg,powdery_mildew,train,aabf8f5d875986cb415d6d7a0489d832
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm74.JPG,powdery_mildew,train,6c40cef6fcabf764dd76e3aff7289088
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm146.jpg,powdery_mildew,train,538d00caa2697fb11b8a168b8cf9c6de
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm59.jpg,powdery_mildew,train,5f502f94412324a2b653bdf0a7a6c191
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm13.jpg,powdery_mildew,train,d98812a1f647fc326f3b9f78ca286b6a
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm45.jpg,powdery_mildew,val,3ff0508601df146e071f2abf7dd05109
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm14.JPG,powdery_mildew,val,f7449cae2c00a45560c5f2bda46a2c71
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm138.jpg,powdery_mildew,val,90d572d83813312719eb7572af6b8433
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm120.jpg,powdery_mildew,val,06c6f61c77677e05185681d5e14a0e54
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm96.jpg,powdery_mildew,val,ac2fb66243a83d24a74bb2a225f45c76
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm63.JPG,powdery_mildew,val,f54b3a12a3491af229591b43d2a705fb
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm90.jpg,powdery_mildew,val,b195e59c70bac5064456918cac40cee1
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm84.JPG,powdery_mildew,val,2a85f4c658588a33f4a7c1a78a208963
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm114.jpg,powdery_mildew,val,e50b99cf3b2ef8276f34a9beda663e0d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm137.jpg,powdery_mildew,val,3081f4a7b4c4203d9f092443e9a5a006
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm117.jpg,powdery_mildew,val,d3b49c02b6fc4f123fa39692a5e6b345
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm83.JPG,powdery_mildew,val,8c2f4c8e0a3884b28bc1af7cd328448c
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm113.jpg,powdery_mildew,val,5c5709c01e9bd944560e7d0b3186717d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm51.jpg,powdery_mildew,val,edbe3673d27195f17e2fdb2eef607a0e
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm92.jpg,powdery_mildew,val,50c486cbc4776420977d540528bf9d9d
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm141.jpg,powdery_mildew,val,a95c352e46030c7f2373f755a5c9a126
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm36.jpg,powdery_mildew,val,bb24fbafa7074e3d08e5eb3a42057b71
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm73.JPG,powdery_mildew,val,a2b608120c53c0e012c9d888863c0482
+taiwan/taiwan/Preprocessed data/Train/powdery mildew/pm52.jpg,powdery_mildew,val,d6b18cdd19474c1a632c84d123e6fea6
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs1.JPG,bacterial_spot,test,df10b958003004820660336601de9672
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs110.JPG,bacterial_spot,test,18a4afd79704bc450e94e73d74bf8b0c
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs19.JPG,bacterial_spot,test,bf0844855a1b8cca77956f80120f6cb9
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs22.JPG,bacterial_spot,test,bf0dc4542a690046c5eb75608b4d1840
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs23.JPG,bacterial_spot,test,8f8d3d41ee27bcc091114dd3ac92f459
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs30.JPG,bacterial_spot,test,871e0ffe63ac1dd8cba4a88e2498df17
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs31.JPG,bacterial_spot,test,3a53d28b60c9e8425a3918da04777d0a
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs34.JPG,bacterial_spot,test,c9bc4efb4af1d67f27a194b24515ba05
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs4.JPG,bacterial_spot,test,5181b5c2917ab6ccb2eb94ea3ef0677e
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs46.JPG,bacterial_spot,test,1a0684292e6c6d1174e78140c25b249c
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs52.JPG,bacterial_spot,test,05f635a70bc7e97e562ef6d737a97d17
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs58.JPG,bacterial_spot,test,ef1753ca1624e0ce6501610f5ea556a4
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs59.JPG,bacterial_spot,test,db75b538fbef4ff5b375667e4a19cedc
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs60.JPG,bacterial_spot,test,15d7513159ac9f59ffe511f3db87d3d8
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs61.JPG,bacterial_spot,test,0a72d60ea2aaa6648a2fcf1ee22b179a
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs65.JPG,bacterial_spot,test,e41fa821371ea7956748f7c60a9f2d98
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs74.JPG,bacterial_spot,test,fd0c74a54ed15e62527d30c36f6aa425
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs86.JPG,bacterial_spot,test,cf7772d33155b45733566432da2d19e4
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs88.JPG,bacterial_spot,test,db1521e7de10dec60bc987c3e6501b46
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs89.JPG,bacterial_spot,test,1786363bb5a66fd48094b8edf361059e
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs92.JPG,bacterial_spot,test,31efa259ea03ef3de4df6677de11caf2
+taiwan/taiwan/Preprocessed data/Test/Bacterial spot/Bs98.JPG,bacterial_spot,test,e4d24e459b5df0211080a57387b26021
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm14.jpg,black_mold,test,95e252de496aed113f6d97fa93984f87
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm15.jpg,black_mold,test,16c633fe10f899fd226e950de9045696
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm16.jpg,black_mold,test,302d2fc6657447ec720b2751a69ff467
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm20.jpg,black_mold,test,04a4f102c7984be1c3312d6709ff43bb
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm23.jpg,black_mold,test,f4cb4cf608bcbefbd249f1a82f68bf74
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm30.JPG,black_mold,test,c1f02789bef7f40bba5c562fb48cba6c
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm39.JPG,black_mold,test,ce933fecce58ab703202190af51c89d4
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm4.jpg,black_mold,test,3503778e3648768df3332c33caf18916
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm43.JPG,black_mold,test,61685b4c76c371e8278d1cee49f173ba
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm54.JPG,black_mold,test,6d0b12df8cabbf4d6a3c02c1fb3549c3
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm58.JPG,black_mold,test,eb529b8fde9f9fd540242230dcbbf056
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm62.JPG,black_mold,test,0b30a60c5011af0a89c455d812a86d8c
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm66.JPG,black_mold,test,85a152137459dc731c91dfd3be43c940
+taiwan/taiwan/Preprocessed data/Test/Black mold/Blm67.JPG,black_mold,test,85c91b94ac1de6a6d85e31ca1ccc17f8
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls10.jpg,gray_spot,test,1e675439a1b9457b4a5be7e54ed789c3
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls13.jpg,gray_spot,test,d3bf0a2db3a20782d8110f825fb73279
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls14.jpg,gray_spot,test,96ec883585a895ed99a7af3c108d35d7
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls26.jpg,gray_spot,test,4b361dbe4eb9500d9cee4119de33eaaf
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls29.jpg,gray_spot,test,1f6a65eeb497f1ac894e7d1a810ab527
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls30.jpg,gray_spot,test,d5a9bbf10f14e37b4c14d054ac2162c2
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls31.jpg,gray_spot,test,ce3cc13a45ec367dfee48e0bda4abf9d
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls34.jpg,gray_spot,test,ec8049133b020667252a246748830a35
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls4.jpg,gray_spot,test,b14091376b215c072f00e0b507759da8
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls41.jpg,gray_spot,test,34ef3cfd5bc816e237272fadda4b7d74
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls48.JPG,gray_spot,test,6ce8ba9c4dd79a6b66f90fb2d1ab2af0
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls55.JPG,gray_spot,test,561b4914e75ce69e062aa17aac76b789
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls57.JPG,gray_spot,test,399e1d5748d0009b113dc37c211d86ea
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls64.JPG,gray_spot,test,b5355a8d10caa9f6941c5526bc102a27
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls67.JPG,gray_spot,test,9a6af09fd71d1ae8753f72f73139522e
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls83.JPG,gray_spot,test,3b6aea3956ade4d45fc5f5cf79bcb746
+taiwan/taiwan/Preprocessed data/Test/Gray spot/Gls84.JPG,gray_spot,test,4fd56e848e0c2089006e6a5de6bcb9c9
+taiwan/taiwan/Preprocessed data/Test/health/h19.jpg,healthy,test,fd72d36d484beb3e2f7bbcd813417478
+taiwan/taiwan/Preprocessed data/Test/health/h27.jpg,healthy,test,f7e6316ba102fdceea5daca36167d1fc
+taiwan/taiwan/Preprocessed data/Test/health/h28.jpg,healthy,test,3dfa4164469ff7155af3b113a125435c
+taiwan/taiwan/Preprocessed data/Test/health/h29.jpg,healthy,test,4e692f726d223596f645c78c5731d7e1
+taiwan/taiwan/Preprocessed data/Test/health/h3.jpg,healthy,test,90416511cf18ce01d86927ee6c015734
+taiwan/taiwan/Preprocessed data/Test/health/h37.jpg,healthy,test,e76c7b9f58923d0059aaf7a2d679f0f7
+taiwan/taiwan/Preprocessed data/Test/health/h44.jpg,healthy,test,07d07b512d0fe912c1ef2f10fc0735c6
+taiwan/taiwan/Preprocessed data/Test/health/h49.jpg,healthy,test,879f0992c935692cac6b21ba2cb2c8d3
+taiwan/taiwan/Preprocessed data/Test/health/h52.jpg,healthy,test,94db053f647d9afef30835506db78311
+taiwan/taiwan/Preprocessed data/Test/health/h53.jpg,healthy,test,86db9a8188098c6ca8bcd3db8f9e3f2c
+taiwan/taiwan/Preprocessed data/Test/health/h54.jpg,healthy,test,688567c66b0a338a46577c29257666b4
+taiwan/taiwan/Preprocessed data/Test/health/h59.jpg,healthy,test,d024aa5d8a7312859ea99554966951c9
+taiwan/taiwan/Preprocessed data/Test/health/h67.jpg,healthy,test,6b1edb3b69d2d02cfd3b5f49eb8b34e6
+taiwan/taiwan/Preprocessed data/Test/health/h68.jpg,healthy,test,fb3998f7a6f42f092d88f3fb39e38cd3
+taiwan/taiwan/Preprocessed data/Test/health/h72.jpg,healthy,test,50a8f90842f091dfcfbe1cfda23b7353
+taiwan/taiwan/Preprocessed data/Test/health/h81.jpg,healthy,test,293643e07711b000199e59d880f94ad0
+taiwan/taiwan/Preprocessed data/Test/health/h84.jpg,healthy,test,4e8a1d76b1828382270fb3fee1d6e97a
+taiwan/taiwan/Preprocessed data/Test/health/h87.jpg,healthy,test,abf72d095c09dec3f7b0a0bca40508d3
+taiwan/taiwan/Preprocessed data/Test/health/h9.jpg,healthy,test,0d3f1ce1ad62c8de0bbe2f832ffe0709
+taiwan/taiwan/Preprocessed data/Test/health/h91.jpg,healthy,test,95f3ffea5e6d536226bb1472667b836f
+taiwan/taiwan/Preprocessed data/Test/health/h96.jpg,healthy,test,f69eb55e76696af3762d0760d2ab4f75
+taiwan/taiwan/Preprocessed data/Test/health/h97.jpg,healthy,test,400e65c10b29d0c4116416ee289437bc
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb1.JPG,late_blight,test,7d92c8bd8af7a51304d5b69d40c00510
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb10.JPG,late_blight,test,e040f908699b49fdf23858378b881e6b
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb11.JPG,late_blight,test,6d1b8e783adee1ad60c2be7f4d115034
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb14.JPG,late_blight,test,47dd9ce05d5ff03c91eccbd947b9948f
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb22.JPG,late_blight,test,d8b6a6e4f17ad6f0abe5b48db2a5e2cb
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb27.JPG,late_blight,test,22e3fa8b6fd5c6c0ee38c120acb1b9ba
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb32.JPG,late_blight,test,5068792f3094c5550a3e7aeadbec94be
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb33.JPG,late_blight,test,a9bb8ad75341ac7e52869f287f39363e
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb34.JPG,late_blight,test,38d92ff472c31793fe925153a1f0cae5
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb35.JPG,late_blight,test,01c30a91658549bfe5f8f5d27774e824
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb4.JPG,late_blight,test,7dcf72a3a9b91467e7c89fcc4a5ab313
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb48.JPG,late_blight,test,c87c252b616dcfeb579bd357ddf584e1
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb51.JPG,late_blight,test,6144c7192c380e0c53ba7efadabc1d2e
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb56.JPG,late_blight,test,70e75ebf9a984b759f9deb6990d479c1
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb74.JPG,late_blight,test,60065f225260672065ec5d5c7f5e937a
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb75.JPG,late_blight,test,0167e132c8327b37b17efdfebdea2334
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb78.JPG,late_blight,test,acfd57a3ac0ae37207e1323802741629
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb83.JPG,late_blight,test,a221852f844735b30579fc2bfd0c5f8c
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb93.JPG,late_blight,test,2f526c44bbea4abdba5429e6eed66374
+taiwan/taiwan/Preprocessed data/Test/Late blight/Lb98.JPG,late_blight,test,5aa058e9fa3f0552e2c92769de56989c
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm100.jpg,powdery_mildew,test,80df04fbdbce056d19140ea4eaeef14d
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm104.jpg,powdery_mildew,test,d2e38d6fd44d10455d551073c37bfc6a
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm109.jpg,powdery_mildew,test,093eafec0891953cab24bb27e8bc0026
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm118.jpg,powdery_mildew,test,1b0d3d12f5351cb0fab2863930f951b7
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm12.JPG,powdery_mildew,test,d745e400b89f4396b531e47f631b9f2e
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm124.jpg,powdery_mildew,test,2d3a11e4adcd16879e92d70fecb4eeca
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm125.jpg,powdery_mildew,test,52150be1296ce4ad5fa25a6e9d14b022
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm126.jpg,powdery_mildew,test,f25046ac634c847019019c9f4a77dcdd
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm134.jpg,powdery_mildew,test,cd0df35264fddc9665d29d6b2a277209
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm147.jpg,powdery_mildew,test,25f858c724b240c50f9bc051e01f6383
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm148.jpg,powdery_mildew,test,33b894f778b24f02326aa397ece78d9c
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm150.jpg,powdery_mildew,test,d7d2717ff653638c35919470c2cf1455
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm152.jpg,powdery_mildew,test,64eb696542554983bf1363d259c7c01c
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm155.jpg,powdery_mildew,test,5787b830eda7ae4588f35126d8173334
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm156.JPG,powdery_mildew,test,03e9ba24cd8abdb806cc5154ae40b11e
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm25.jpg,powdery_mildew,test,b10869731436e5854d7036442c6eb230
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm32.jpg,powdery_mildew,test,ed6a93375c568a939c5dab03b2fc1345
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm38.jpg,powdery_mildew,test,e058fbdbf6971cf204cea084eea1c4e1
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm42.JPG,powdery_mildew,test,b9a9021f8f68a1b00c4616a67c988ab9
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm43.JPG,powdery_mildew,test,0c1d89c36040607b995fcb173efdf0d3
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm55.jpg,powdery_mildew,test,12fe6782a9b49fade939d98e65f0409a
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm6.jpg,powdery_mildew,test,06b222f61473dd670e1c7cc6ac674f7b
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm64.JPG,powdery_mildew,test,9fdaca9f1e37b4e78b83b7585db44e53
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm66.JPG,powdery_mildew,test,7afac9c41fd07032962e568587063d58
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm75.JPG,powdery_mildew,test,09b2971832c3d77acc8e2fc4ccef834e
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm8.jpg,powdery_mildew,test,15207791e6c993d8727da55417dd73a7
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm80.JPG,powdery_mildew,test,ef266b0b8971ed6e9957fabe3fc18cab
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm88.JPG,powdery_mildew,test,07b9ebe8810dd3b84330162440d58f5c
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm89.JPG,powdery_mildew,test,aaec6eadd6c35d0617ecf8ab1f43c44e
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm91.jpg,powdery_mildew,test,ff3af9aa2a9bfb1852ee2f8e8c74cb8e
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm95.jpg,powdery_mildew,test,051211bc8c254281bd6cde7adfbd3b49
+taiwan/taiwan/Preprocessed data/Test/powdery mildew/pm97.jpg,powdery_mildew,test,0695a79129b214ee5f7594fb43bbff51

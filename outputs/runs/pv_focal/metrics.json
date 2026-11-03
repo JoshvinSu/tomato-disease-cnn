@@ -1,0 +1,88 @@
+{
+  "accuracy": 0.9949518127581459,
+  "macro_f1": 0.9955203365782278,
+  "per_class": {
+    "bacterial_spot": {
+      "precision": 0.9883720930232558,
+      "recall": 0.99609375,
+      "f1-score": 0.9922178988326849,
+      "support": 256.0
+    },
+    "early_blight": {
+      "precision": 0.9916666666666667,
+      "recall": 0.9916666666666667,
+      "f1-score": 0.9916666666666667,
+      "support": 120.0
+    },
+    "healthy": {
+      "precision": 0.9895833333333334,
+      "recall": 1.0,
+      "f1-score": 0.9947643979057592,
+      "support": 190.0
+    },
+    "late_blight": {
+      "precision": 0.9912280701754386,
+      "recall": 0.9868995633187773,
+      "f1-score": 0.9890590809628009,
+      "support": 229.0
+    },
+    "leaf_mold": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 115.0
+    },
+    "mosaic_virus": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 45.0
+    },
+    "septoria_leaf_spot": {
+      "precision": 0.9953051643192489,
+      "recall": 1.0,
+      "f1-score": 0.9976470588235294,
+      "support": 212.0
+    },
+    "spider_mite": {
+      "precision": 1.0,
+      "recall": 0.9950248756218906,
+      "f1-score": 0.9975062344139651,
+      "support": 201.0
+    },
+    "target_spot": {
+      "precision": 1.0,
+      "recall": 0.9940476190476191,
+      "f1-score": 0.9970149253731343,
+      "support": 168.0
+    },
+    "yellow_leaf_curl_virus": {
+      "precision": 0.9968798751950078,
+      "recall": 0.9937791601866252,
+      "f1-score": 0.9953271028037384,
+      "support": 643.0
+    }
+  },
+  "run": "pv_focal",
+  "args": {
+    "dataset": "plantvillage",
+    "name": "pv_focal",
+    "model": "efficientnet_b0",
+    "epochs": 15,
+    "freeze_epochs": 2,
+    "batch_size": 32,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "dropout": 0.3,
+    "loss": "focal",
+    "class_weight": true,
+    "patience": 4,
+    "init": null,
+    "max_batches": 0,
+    "workers": 4
+  },
+  "best_val_macro_f1": 0.9953120377719294,
+  "epochs_trained": 15,
+  "train_time_s": 1336,
+  "n_params": 4020358
+}
