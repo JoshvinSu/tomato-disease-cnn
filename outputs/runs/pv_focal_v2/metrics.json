@@ -1,0 +1,88 @@
+{
+  "accuracy": 0.9944928866452502,
+  "macro_f1": 0.9942399494457573,
+  "per_class": {
+    "bacterial_spot": {
+      "precision": 0.9883720930232558,
+      "recall": 0.99609375,
+      "f1-score": 0.9922178988326849,
+      "support": 256.0
+    },
+    "early_blight": {
+      "precision": 1.0,
+      "recall": 0.9916666666666667,
+      "f1-score": 0.99581589958159,
+      "support": 120.0
+    },
+    "healthy": {
+      "precision": 0.9844559585492227,
+      "recall": 1.0,
+      "f1-score": 0.9921671018276762,
+      "support": 190.0
+    },
+    "late_blight": {
+      "precision": 1.0,
+      "recall": 0.9956331877729258,
+      "f1-score": 0.9978118161925602,
+      "support": 229.0
+    },
+    "leaf_mold": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 115.0
+    },
+    "mosaic_virus": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 45.0
+    },
+    "septoria_leaf_spot": {
+      "precision": 0.9953051643192489,
+      "recall": 1.0,
+      "f1-score": 0.9976470588235294,
+      "support": 212.0
+    },
+    "spider_mite": {
+      "precision": 0.9852216748768473,
+      "recall": 0.9950248756218906,
+      "f1-score": 0.9900990099009901,
+      "support": 201.0
+    },
+    "target_spot": {
+      "precision": 0.9878787878787879,
+      "recall": 0.9702380952380952,
+      "f1-score": 0.978978978978979,
+      "support": 168.0
+    },
+    "yellow_leaf_curl_virus": {
+      "precision": 1.0,
+      "recall": 0.995334370139969,
+      "f1-score": 0.9976617303195635,
+      "support": 643.0
+    }
+  },
+  "run": "pv_focal_v2",
+  "args": {
+    "dataset": "plantvillage",
+    "name": "pv_focal_v2",
+    "model": "efficientnet_b0",
+    "epochs": 15,
+    "freeze_epochs": 2,
+    "batch_size": 32,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "dropout": 0.3,
+    "loss": "focal",
+    "class_weight": true,
+    "patience": 4,
+    "init": null,
+    "max_batches": 0,
+    "workers": 4
+  },
+  "best_val_macro_f1": 0.9939246537226365,
+  "epochs_trained": 15,
+  "train_time_s": 1296,
+  "n_params": 4020358
+}

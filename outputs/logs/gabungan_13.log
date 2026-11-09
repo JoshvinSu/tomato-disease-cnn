@@ -1,0 +1,17 @@
+Device: cuda | kelas: 13 | train: 10584 | val: 2253
+Train per sumber: {'plantvillage': 10164, 'taiwan': 420}
+epoch  1/15 | train loss 0.8735 acc 0.6022 | val loss 0.4050 acc 0.7892 | F1 Taiwan 0.6270 *
+epoch  2/15 | train loss 0.4999 acc 0.7205 | val loss 0.3143 acc 0.8291 | F1 Taiwan 0.5771
+epoch  3/15 | train loss 0.2718 acc 0.8375 | val loss 0.1239 acc 0.9206 | F1 Taiwan 0.8026 *
+epoch  4/15 | train loss 0.1081 acc 0.9188 | val loss 0.0808 acc 0.9512 | F1 Taiwan 0.7269
+epoch  5/15 | train loss 0.0714 acc 0.9445 | val loss 0.1127 acc 0.9277 | F1 Taiwan 0.7674
+epoch  6/15 | train loss 0.0461 acc 0.9629 | val loss 0.0473 acc 0.9636 | F1 Taiwan 0.7802
+epoch  7/15 | train loss 0.0427 acc 0.9669 | val loss 0.0375 acc 0.9716 | F1 Taiwan 0.7779
+epoch  8/15 | train loss 0.0239 acc 0.9791 | val loss 0.0369 acc 0.9698 | F1 Taiwan 0.7723
+epoch  9/15 | train loss 0.0182 acc 0.9834 | val loss 0.0409 acc 0.9716 | F1 Taiwan 0.7718
+Early stopping: 6 epoch tanpa perbaikan F1 Taiwan
+TEST plantvillage (open): accuracy 0.9261 | macro-F1 0.9114
+TEST plantvillage (closed): accuracy 0.9266 | macro-F1 0.9117
+TEST taiwan (open): accuracy 0.6378 | macro-F1 0.6051
+TEST taiwan (closed): accuracy 0.6535 | macro-F1 0.6210
+Disimpan: D:\daun tomat\tomato-disease-cnn\outputs\runs\gabungan_13

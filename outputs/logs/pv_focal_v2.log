@@ -1,0 +1,30 @@
+Device: cuda | model: efficientnet_b0 (4.02 M parameter) | kelas: 10
+Jumlah train per kelas: {'bacterial_spot': 1191, 'early_blight': 560, 'healthy': 887, 'late_blight': 1066, 'leaf_mold': 533, 'mosaic_virus': 209, 'septoria_leaf_spot': 992, 'spider_mite': 939, 'target_spot': 787, 'yellow_leaf_curl_virus': 3000}
+Class weight: {'bacterial_spot': 0.56, 'early_blight': 1.19, 'healthy': 0.75, 'late_blight': 0.62, 'leaf_mold': 1.25, 'mosaic_virus': 3.18, 'septoria_leaf_spot': 0.67, 'spider_mite': 0.71, 'target_spot': 0.85, 'yellow_leaf_curl_virus': 0.22}
+epoch  1/15 | train loss 0.4601 acc 0.7046 | val loss 0.2440 acc 0.8269 F1 0.7721 *
+epoch  2/15 | train loss 0.2565 acc 0.7993 | val loss 0.1723 acc 0.8669 F1 0.8300 *
+epoch  3/15 | train loss 0.1540 acc 0.8682 | val loss 0.0634 acc 0.9334 F1 0.9091 *
+epoch  4/15 | train loss 0.0673 acc 0.9329 | val loss 0.0228 acc 0.9674 F1 0.9576 *
+epoch  5/15 | train loss 0.0463 acc 0.9476 | val loss 0.0355 acc 0.9679 F1 0.9659 *
+epoch  6/15 | train loss 0.0331 acc 0.9616 | val loss 0.0100 acc 0.9848 F1 0.9835 *
+epoch  7/15 | train loss 0.0246 acc 0.9690 | val loss 0.0455 acc 0.9573 F1 0.9242
+epoch  8/15 | train loss 0.0200 acc 0.9741 | val loss 0.0132 acc 0.9826 F1 0.9798
+epoch  9/15 | train loss 0.0134 acc 0.9807 | val loss 0.0071 acc 0.9862 F1 0.9849 *
+epoch 10/15 | train loss 0.0089 acc 0.9855 | val loss 0.0073 acc 0.9858 F1 0.9858 *
+epoch 11/15 | train loss 0.0083 acc 0.9873 | val loss 0.0060 acc 0.9913 F1 0.9899 *
+epoch 12/15 | train loss 0.0051 acc 0.9920 | val loss 0.0034 acc 0.9922 F1 0.9926 *
+epoch 13/15 | train loss 0.0040 acc 0.9940 | val loss 0.0031 acc 0.9922 F1 0.9925
+epoch 14/15 | train loss 0.0027 acc 0.9952 | val loss 0.0029 acc 0.9940 F1 0.9939 *
+epoch 15/15 | train loss 0.0030 acc 0.9949 | val loss 0.0027 acc 0.9940 F1 0.9939 *
+
+TEST pv_focal_v2: accuracy 0.9945 | macro-F1 0.9942
+  bacterial_spot           P 0.988 R 0.996 F1 0.992 (n=256)
+  early_blight             P 1.000 R 0.992 F1 0.996 (n=120)
+  healthy                  P 0.984 R 1.000 F1 0.992 (n=190)
+  late_blight              P 1.000 R 0.996 F1 0.998 (n=229)
+  leaf_mold                P 1.000 R 1.000 F1 1.000 (n=115)
+  mosaic_virus             P 1.000 R 1.000 F1 1.000 (n=45)
+  septoria_leaf_spot       P 0.995 R 1.000 F1 0.998 (n=212)
+  spider_mite              P 0.985 R 0.995 F1 0.990 (n=201)
+  target_spot              P 0.988 R 0.970 F1 0.979 (n=168)
+  yellow_leaf_curl_virus   P 1.000 R 0.995 F1 0.998 (n=643)

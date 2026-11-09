@@ -1,0 +1,26 @@
+Backbone dimuat dari ../outputs/runs/pv_focal_v2/best.pt: 358/360 tensor
+Device: cuda | model: efficientnet_b0 (4.02 M parameter) | kelas: 6
+Jumlah train per kelas: {'bacterial_spot': 75, 'black_mold': 45, 'gray_spot': 57, 'healthy': 71, 'late_blight': 66, 'powdery_mildew': 106}
+Class weight: {'bacterial_spot': 0.87, 'black_mold': 1.45, 'gray_spot': 1.15, 'healthy': 0.92, 'late_blight': 0.99, 'powdery_mildew': 0.62}
+epoch  1/25 | train loss 1.1153 acc 0.2500 | val loss 0.9256 acc 0.4000 F1 0.3634 *
+epoch  2/25 | train loss 0.9097 acc 0.4619 | val loss 0.8031 acc 0.4933 F1 0.4796 *
+epoch  3/25 | train loss 0.6471 acc 0.5738 | val loss 0.5472 acc 0.6533 F1 0.6317 *
+epoch  4/25 | train loss 0.3642 acc 0.7405 | val loss 0.4392 acc 0.7067 F1 0.6717 *
+epoch  5/25 | train loss 0.2350 acc 0.8190 | val loss 0.4557 acc 0.7200 F1 0.6963 *
+epoch  6/25 | train loss 0.2022 acc 0.8524 | val loss 0.3481 acc 0.8133 F1 0.7901 *
+epoch  7/25 | train loss 0.1975 acc 0.8476 | val loss 0.3166 acc 0.8533 F1 0.8355 *
+epoch  8/25 | train loss 0.1513 acc 0.8857 | val loss 0.3205 acc 0.8400 F1 0.8128
+epoch  9/25 | train loss 0.1245 acc 0.8810 | val loss 0.3779 acc 0.8133 F1 0.7990
+epoch 10/25 | train loss 0.1182 acc 0.8952 | val loss 0.4045 acc 0.8000 F1 0.7807
+epoch 11/25 | train loss 0.1012 acc 0.9143 | val loss 0.3844 acc 0.7333 F1 0.7101
+epoch 12/25 | train loss 0.0998 acc 0.9238 | val loss 0.4198 acc 0.7867 F1 0.7723
+epoch 13/25 | train loss 0.0662 acc 0.9476 | val loss 0.4296 acc 0.8400 F1 0.8255
+Early stopping: 6 epoch tanpa perbaikan val macro-F1
+
+TEST tw_from_pv_v2: accuracy 0.7165 | macro-F1 0.6941
+  bacterial_spot           P 0.727 R 0.727 F1 0.727 (n=22)
+  black_mold               P 0.600 R 0.643 F1 0.621 (n=14)
+  gray_spot                P 0.545 R 0.706 F1 0.615 (n=17)
+  healthy                  P 0.917 R 1.000 F1 0.957 (n=22)
+  late_blight              P 0.500 R 0.400 F1 0.444 (n=20)
+  powdery_mildew           P 0.857 R 0.750 F1 0.800 (n=32)

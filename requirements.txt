@@ -8,3 +8,4 @@ pillow
 tqdm
 ipykernel
 grad-cam
+streamlit>=1.67

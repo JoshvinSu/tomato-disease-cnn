@@ -2,7 +2,15 @@
 from pathlib import Path
 
 PROJECT_DIR = Path(__file__).resolve().parents[1]
-DATASET_DIR = PROJECT_DIR.parent / "Dataset of Tomato Leaves"
+_DATASET_NAME = "Dataset of Tomato Leaves"
+# Dataset bisa berada di samping folder project atau di dalamnya (hasil ekstrak bersarang).
+_DATASET_CANDIDATES = [
+    PROJECT_DIR.parent / _DATASET_NAME,
+    PROJECT_DIR / _DATASET_NAME / _DATASET_NAME,
+    PROJECT_DIR / _DATASET_NAME,
+]
+DATASET_DIR = next((p for p in _DATASET_CANDIDATES if (p / "plantvillage").is_dir()),
+                   _DATASET_CANDIDATES[0])
 
 PV_DIR = DATASET_DIR / "plantvillage" / "Preprocessed data" / "Preprocessed data"
 TW_DIR = DATASET_DIR / "taiwan" / "taiwan" / "Preprocessed data"

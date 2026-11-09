@@ -1,0 +1,264 @@
+{
+  "run": "gabungan_v2",
+  "args": {
+    "name": "gabungan_v2",
+    "model": "efficientnet_b0",
+    "epochs": 10,
+    "freeze_epochs": 1,
+    "batch_size": 32,
+    "lr": 0.0005,
+    "weight_decay": 0.0001,
+    "dropout": 0.3,
+    "patience": 4,
+    "workers": 4,
+    "init": "../outputs/runs/pv_focal_v2/best.pt",
+    "samples_per_epoch": 6000,
+    "extra_aug": true,
+    "smoke": false,
+    "dataset": "gabungan"
+  },
+  "classes": [
+    "bacterial_spot",
+    "black_mold",
+    "early_blight",
+    "gray_spot",
+    "healthy",
+    "late_blight",
+    "leaf_mold",
+    "mosaic_virus",
+    "powdery_mildew",
+    "septoria_leaf_spot",
+    "spider_mite",
+    "target_spot",
+    "yellow_leaf_curl_virus"
+  ],
+  "best_val_score": 0.9182321296375988,
+  "epochs_trained": 7,
+  "train_time_s": 558,
+  "plantvillage": {
+    "n": 2179,
+    "open": {
+      "accuracy": 0.9821018815970629,
+      "macro_f1": 0.9782013301910718,
+      "per_class": {
+        "bacterial_spot": {
+          "precision": 0.9959514170040485,
+          "recall": 0.9609375,
+          "f1-score": 0.9781312127236581,
+          "support": 256.0
+        },
+        "early_blight": {
+          "precision": 0.9915966386554622,
+          "recall": 0.9833333333333333,
+          "f1-score": 0.9874476987447699,
+          "support": 120.0
+        },
+        "healthy": {
+          "precision": 0.9743589743589743,
+          "recall": 1.0,
+          "f1-score": 0.987012987012987,
+          "support": 190.0
+        },
+        "late_blight": {
+          "precision": 0.9826086956521739,
+          "recall": 0.9868995633187773,
+          "f1-score": 0.9847494553376906,
+          "support": 229.0
+        },
+        "leaf_mold": {
+          "precision": 0.9911504424778761,
+          "recall": 0.9739130434782609,
+          "f1-score": 0.9824561403508771,
+          "support": 115.0
+        },
+        "mosaic_virus": {
+          "precision": 0.9574468085106383,
+          "recall": 1.0,
+          "f1-score": 0.9782608695652174,
+          "support": 45.0
+        },
+        "septoria_leaf_spot": {
+          "precision": 0.954954954954955,
+          "recall": 1.0,
+          "f1-score": 0.9769585253456221,
+          "support": 212.0
+        },
+        "spider_mite": {
+          "precision": 0.9797979797979798,
+          "recall": 0.9651741293532339,
+          "f1-score": 0.9724310776942355,
+          "support": 201.0
+        },
+        "target_spot": {
+          "precision": 0.9349112426035503,
+          "recall": 0.9404761904761905,
+          "f1-score": 0.9376854599406528,
+          "support": 168.0
+        },
+        "yellow_leaf_curl_virus": {
+          "precision": 1.0,
+          "recall": 0.9937791601866252,
+          "f1-score": 0.9968798751950078,
+          "support": 643.0
+        }
+      }
+    },
+    "closed": {
+      "accuracy": 0.9821018815970629,
+      "macro_f1": 0.9782013301910718,
+      "per_class": {
+        "bacterial_spot": {
+          "precision": 0.9959514170040485,
+          "recall": 0.9609375,
+          "f1-score": 0.9781312127236581,
+          "support": 256.0
+        },
+        "early_blight": {
+          "precision": 0.9915966386554622,
+          "recall": 0.9833333333333333,
+          "f1-score": 0.9874476987447699,
+          "support": 120.0
+        },
+        "healthy": {
+          "precision": 0.9743589743589743,
+          "recall": 1.0,
+          "f1-score": 0.987012987012987,
+          "support": 190.0
+        },
+        "late_blight": {
+          "precision": 0.9826086956521739,
+          "recall": 0.9868995633187773,
+          "f1-score": 0.9847494553376906,
+          "support": 229.0
+        },
+        "leaf_mold": {
+          "precision": 0.9911504424778761,
+          "recall": 0.9739130434782609,
+          "f1-score": 0.9824561403508771,
+          "support": 115.0
+        },
+        "mosaic_virus": {
+          "precision": 0.9574468085106383,
+          "recall": 1.0,
+          "f1-score": 0.9782608695652174,
+          "support": 45.0
+        },
+        "septoria_leaf_spot": {
+          "precision": 0.954954954954955,
+          "recall": 1.0,
+          "f1-score": 0.9769585253456221,
+          "support": 212.0
+        },
+        "spider_mite": {
+          "precision": 0.9797979797979798,
+          "recall": 0.9651741293532339,
+          "f1-score": 0.9724310776942355,
+          "support": 201.0
+        },
+        "target_spot": {
+          "precision": 0.9349112426035503,
+          "recall": 0.9404761904761905,
+          "f1-score": 0.9376854599406528,
+          "support": 168.0
+        },
+        "yellow_leaf_curl_virus": {
+          "precision": 1.0,
+          "recall": 0.9937791601866252,
+          "f1-score": 0.9968798751950078,
+          "support": 643.0
+        }
+      }
+    },
+    "predicted_outside_source_classes": 0.0
+  },
+  "taiwan": {
+    "n": 127,
+    "open": {
+      "accuracy": 0.8503937007874016,
+      "macro_f1": 0.8500893411798615,
+      "per_class": {
+        "bacterial_spot": {
+          "precision": 0.9,
+          "recall": 0.8181818181818182,
+          "f1-score": 0.8571428571428571,
+          "support": 22.0
+        },
+        "black_mold": {
+          "precision": 0.8571428571428571,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.8571428571428571,
+          "support": 14.0
+        },
+        "gray_spot": {
+          "precision": 0.7272727272727273,
+          "recall": 0.9411764705882353,
+          "f1-score": 0.8205128205128205,
+          "support": 17.0
+        },
+        "healthy": {
+          "precision": 0.9166666666666666,
+          "recall": 1.0,
+          "f1-score": 0.9565217391304348,
+          "support": 22.0
+        },
+        "late_blight": {
+          "precision": 0.8235294117647058,
+          "recall": 0.7,
+          "f1-score": 0.7567567567567568,
+          "support": 20.0
+        },
+        "powdery_mildew": {
+          "precision": 0.896551724137931,
+          "recall": 0.8125,
+          "f1-score": 0.8524590163934426,
+          "support": 32.0
+        }
+      }
+    },
+    "closed": {
+      "accuracy": 0.8503937007874016,
+      "macro_f1": 0.8467670820436489,
+      "per_class": {
+        "bacterial_spot": {
+          "precision": 0.8571428571428571,
+          "recall": 0.8181818181818182,
+          "f1-score": 0.8372093023255814,
+          "support": 22.0
+        },
+        "black_mold": {
+          "precision": 0.8571428571428571,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.8571428571428571,
+          "support": 14.0
+        },
+        "gray_spot": {
+          "precision": 0.7272727272727273,
+          "recall": 0.9411764705882353,
+          "f1-score": 0.8205128205128205,
+          "support": 17.0
+        },
+        "healthy": {
+          "precision": 0.9166666666666666,
+          "recall": 1.0,
+          "f1-score": 0.9565217391304348,
+          "support": 22.0
+        },
+        "late_blight": {
+          "precision": 0.8235294117647058,
+          "recall": 0.7,
+          "f1-score": 0.7567567567567568,
+          "support": 20.0
+        },
+        "powdery_mildew": {
+          "precision": 0.896551724137931,
+          "recall": 0.8125,
+          "f1-score": 0.8524590163934426,
+          "support": 32.0
+        }
+      }
+    },
+    "predicted_outside_source_classes": 0.007874015748031496
+  },
+  "accuracy": 0.8503937007874016,
+  "macro_f1": 0.8500893411798615
+}

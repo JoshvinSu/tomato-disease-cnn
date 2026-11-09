@@ -4,3 +4,5 @@ __pycache__/
 outputs/checkpoints/
 *.pt
 *.pth
+
+Dataset of Tomato Leaves/

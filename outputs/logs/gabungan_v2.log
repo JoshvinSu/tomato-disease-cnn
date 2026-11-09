@@ -1,0 +1,17 @@
+Varian augmentasi Taiwan yang aman: 2933
+Backbone dimuat dari ../outputs/runs/pv_focal_v2/best.pt: 358/360 tensor
+Device: cuda | kelas: 13 | train: 13517 | val: 2253
+Train per sumber: {'plantvillage': 10164, 'taiwan': 3353}
+epoch  1/10 | train loss 0.6174 acc 0.7452 | val acc 0.9672 | F1 PV 0.9826 Taiwan 0.5709 skor 0.7767
+epoch  2/10 | train loss 0.1684 acc 0.8877 | val acc 0.9805 | F1 PV 0.9871 Taiwan 0.7653 skor 0.8762 *
+epoch  3/10 | train loss 0.0811 acc 0.9450 | val acc 0.9760 | F1 PV 0.9774 Taiwan 0.8591 skor 0.9182 *
+epoch  4/10 | train loss 0.0420 acc 0.9685 | val acc 0.9765 | F1 PV 0.9815 Taiwan 0.8295 skor 0.9055
+epoch  5/10 | train loss 0.0343 acc 0.9723 | val acc 0.9818 | F1 PV 0.9847 Taiwan 0.8224 skor 0.9036
+epoch  6/10 | train loss 0.0262 acc 0.9778 | val acc 0.9854 | F1 PV 0.9900 Taiwan 0.8148 skor 0.9024
+epoch  7/10 | train loss 0.0187 acc 0.9842 | val acc 0.9867 | F1 PV 0.9920 Taiwan 0.8230 skor 0.9075
+Early stopping: 4 epoch tanpa perbaikan skor validasi
+TEST plantvillage (open): accuracy 0.9821 | macro-F1 0.9782
+TEST plantvillage (closed): accuracy 0.9821 | macro-F1 0.9782
+TEST taiwan (open): accuracy 0.8504 | macro-F1 0.8501
+TEST taiwan (closed): accuracy 0.8504 | macro-F1 0.8468
+Disimpan: D:\daun tomat\tomato-disease-cnn\outputs\runs\gabungan_v2
